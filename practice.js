@@ -194,7 +194,7 @@ let age = 22
 // reassign the value of age to be one greater than it was, because, we all get older
 
 // Code Here
-age = age + 1
+age++
 
 // Good news! We can live forever. Set your age to 999
 
